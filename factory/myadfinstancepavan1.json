@@ -1,0 +1,9 @@
+{
+	"name": "myadfinstancepavan1",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "928b6075-c251-40e4-8a1c-637576afee56",
+		"tenantId": "778537cb-caf9-4fed-9b3b-4b39bd3d6076"
+	}
+}
